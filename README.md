@@ -3,8 +3,6 @@ Simple NGINX setup using Amazon Linux for Docker
 docker-nginx-aws
 ===========
 
-[![Deploy to Docker Cloud](https://files.cloud.docker.com/images/deploy-to-dockercloud.svg)](https://cloud.docker.com/stack/deploy/)
-
 Sample nginx image running Amazon Linux to test docker deployments
 
 ## Running locally
