@@ -15,7 +15,7 @@ Build and run using Docker Compose:
 
 To test that the image is running:
 
-Default page: 
+Default page:
 * http://localhost
 App Pages:
 * http://localhost:8100
