@@ -17,6 +17,7 @@ To test that the image is running:
 
 Default page:
 * http://localhost
+
 App Pages:
 * http://localhost:8100
 * http://localhost:8100/landing.php
