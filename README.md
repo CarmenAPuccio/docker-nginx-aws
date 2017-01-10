@@ -13,4 +13,10 @@ Build and run using Docker Compose:
 	$ cd nginx-aws
 	$ docker run -p 80:80 -p 8100:8100 carmenpuccio/nginx-aws
 
+To test that the image is running:
+Default page: http://localhost
+App Pages:
+	* http://localhost:8100
+	* http://localhost:8100/landing.php
+
 
