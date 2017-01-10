@@ -1,0 +1,8 @@
+version: '2'
+services:
+  nginx:
+    build: .
+    ports:
+      - "80:80"
+      - "8100:8100"
+    image: carmenpuccio/nginx-aws
